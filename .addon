@@ -1,0 +1,20 @@
+{
+  "Title": "Asset Party Refresher",
+  "Type": "tool",
+  "Org": "null",
+  "Ident": "asset_party_refresher",
+  "Tags": null,
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "Resources": null,
+  "MenuResources": null,
+  "HasCode": true,
+  "CodePath": "code",
+  "PackageReferences": [],
+  "EditorReferences": null,
+  "Metadata": {
+    "ProjectTemplate": null,
+    "CsProjName": ""
+  }
+}
